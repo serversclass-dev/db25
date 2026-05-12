@@ -16,5 +16,24 @@
       "islamic"
     ],
     "server_num": 25
+  },
+  "ndymysh6gmailcom": {
+    "username": "ndymysh6gmailcom",
+    "password": "nada0926563126A",
+    "student_type": "علمي",
+    "telegram_user_id": "5653390466",
+    "telegram_username": "ella_brightx008",
+    "telegram_first_name": "loco | nada",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_74.jpg",
+    "session_id": "7f41431a-2be1-4f56-b42d-4b85263cb582",
+    "created_at": "2026-05-12T10:38:44.434672",
+    "verified": true,
+    "last_login": "2026-05-12T10:38:49.445693",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "english"
+    ],
+    "server_num": 25
   }
 }
